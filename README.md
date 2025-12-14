@@ -47,7 +47,7 @@ Follow these steps to run the AeroSense application locally:
 
 * **Frontend**: Streamlit (for building the user interface)
 * **Backend**: Python (for data processing and backend logic)
-* **Machine Learning**: TensorFlow / Keras (for LSTM neural network), Random Forest Regressor
+* **Machine Learning**: Streamlit / Random Forest Regressor
 * **Visualization**: Plotly (for interactive graphs)
 * **API**: Open-Meteo Air-Quality API (for real-time pollutant data)
 
